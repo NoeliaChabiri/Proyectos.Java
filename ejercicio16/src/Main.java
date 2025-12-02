@@ -9,7 +9,7 @@ public class Main {
 
         do{
 
-            System.out.println("por favor Ingrese un numero menor o igual a diez");
+            System.out.println("CAMBIE ESTO PARA LA ACTIVIDAD");
             num=sc.nextInt();
 
             if(num>10){

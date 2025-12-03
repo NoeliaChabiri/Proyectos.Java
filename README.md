@@ -1,21 +1,32 @@
-# Repositorio: Proyectos-Java-ED
+# 🚀 Repositorio Oficial: Versiones-de-Codigo-Java
 
-## Descripción del Proyecto
+---
 
-Este repositorio está destinado a albergar y gestionar las versiones de los programas desarrollados en el módulo de Programación. Contiene ejemplos sencillos y ejercicios realizados en el lenguaje Java.
+## 💡 INTRODUCCIÓN AL PROYECTO
 
-## Entorno de Desarrollo
+Este es el repositorio oficial para la gestión de versiones de los programas desarrollados en el módulo de Programación. Se utiliza como un ejemplo práctico de colaboración y control de versiones con Git y GitHub.
 
-Se utiliza un IDE (Entorno de Desarrollo Integrado) para la codificación, compilación y ejecución de los programas.
+### Objetivos Clave:
+* Albergar programas sencillos escritos en Java.
+* Documentar el proceso de add, commit y push.
+* Servir como portafolio de desarrollo.
 
-* **Lenguaje:** Java
-* **Gestión de Versiones:** GIT
-* **Colaboración:** GitHub
+---
 
-## Curiosidad del Desarrollador (Gestión de Versiones)
+## 🛠️ STACK TECNOLÓGICO
 
-Es interesante destacar que, en las primeras etapas de este proyecto, se experimentaron desafíos con la configuración de la URL remota en GIT, lo que resultó en un **error de protocolo**. Este inconveniente, aunque resuelto mediante la clonación, subraya la importancia de la **precisión en la línea de comandos** al enlazar repositorios remotos.
+| Herramienta | Función Principal |
+| :--- | :--- |
+| **Lenguaje Java** | Desarrollo de los programas |
+| **GIT** | Sistema de control de versiones (Local) |
+| **GitHub** | Plataforma de alojamiento y colaboración (Remoto) |
+| **IDE (Ej. Eclipse)** | Entorno de desarrollo y ejecución |
 
-## Alumno Propietario del Repositorio
+---
 
-**Noelia Chabiri**# Proyectos.Java
+## 👤 Desarrollador
+
+**Noelia Ana Chabiri**
+* *Este proyecto demuestra las habilidades en gestión de versiones requeridas para el módulo de Entornos de Desarrollo.*
+
+---

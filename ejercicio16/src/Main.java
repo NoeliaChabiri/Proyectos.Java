@@ -9,7 +9,7 @@ public class Main {
 
         do{
 
-            System.out.println("CAMBIE ESTO PARA LA ACTIVIDAD");
+            System.out.println("VOY A CAMBIAR ESTO!!!!!!");
             num=sc.nextInt();
 
             if(num>10){

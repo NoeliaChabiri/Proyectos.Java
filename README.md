@@ -1,8 +1,8 @@
-# 🚀 Repositorio Oficial: Versiones-de-Codigo-Java
+#  Repositorio Oficial: Versiones-de-Codigo-Java
 
 ---
 
-## 💡 INTRODUCCIÓN AL PROYECTO
+##  INTRODUCCIÓN AL PROYECTO
 
 Este es el repositorio oficial para la gestión de versiones de los programas desarrollados en el módulo de Programación. Se utiliza como un ejemplo práctico de colaboración y control de versiones con Git y GitHub.
 
@@ -13,7 +13,7 @@ Este es el repositorio oficial para la gestión de versiones de los programas de
 
 ---
 
-## 🛠️ STACK TECNOLÓGICO
+##  STACK TECNOLÓGICO
 
 | Herramienta | Función Principal |
 | :--- | :--- |
@@ -24,7 +24,7 @@ Este es el repositorio oficial para la gestión de versiones de los programas de
 
 ---
 
-## 👤 Desarrollador
+##  Desarrollador
 
 **Noelia Ana Chabiri**
 * *Este proyecto demuestra las habilidades en gestión de versiones requeridas para el módulo de Entornos de Desarrollo.*
